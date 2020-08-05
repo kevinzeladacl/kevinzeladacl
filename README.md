@@ -6,6 +6,7 @@ I worked in my software agency for 4 years in multiple projects as a developer, 
 
 In parallel, I have co-founded a community of programmers and computer scientists from Chile, called [ProinChile](https://www.proinchile.org), for more than 4 years that has had a great impact on the ecosystem.
 
+website: [Kevinzelada.cl](https://www.kevinzelada.cl)
 
 **Skills**:
 
