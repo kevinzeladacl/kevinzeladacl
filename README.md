@@ -20,4 +20,9 @@ website: [Kevinzelada.cl](https://www.kevinzelada.cl)
 - Creation and implementation of technological projects.
 - Administration and design of technological infrastructure.
 - Cloud services administration (Digital Ocean and AWS)
- 
+
+====
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinzeladacl&count_private=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeladacl)
