@@ -1,26 +1,47 @@
 
  
 
-### I'm Kevinzeladacl 👋
+### 👋 Hi, I'm Kevin Zelada (Kevinzeladacl)
 
-Professional with 15 years of experience in technological development, leadership and innovation. He has extensive experience in key roles such as Developer, Consultant and Technical / Commercial Leader. Outstanding ability to interact effectively with clients and specialized teams, ensuring the success of projects.
+---
 
-Co-founder of [ProinChile](https://github.com/proinchileorg)  a community of programmers and computer scientists that contributes to strengthening the national technological ecosystem.
+#### 💼 About Me
+
+Professional with **15+ years** of experience in **technological development, leadership, and innovation**. My career spans key roles including **Developer**, **Consultant**, and **Technical/Commercial Leader**, with a strong ability to lead cross-functional teams and engage effectively with clients, ensuring project success.
+
+I’m also the **co-founder of ProinChile**, a community of programmers and IT professionals focused on strengthening the technological ecosystem in Chile.
+
+My technical focus lies in **backend development**, **infrastructure**, and **high-performance mobile app development**. I am passionate about **education and knowledge sharing**, frequently teaching workshops and courses on various tech topics to help professionals and enthusiasts build their skills.
+
+I'm always open to advising or joining innovative projects, bringing advanced technological solutions to dynamic environments. I strive for **continuous innovation** and **lifelong learning**, staying up to date with the latest tech trends.
+
+---
+
+#### 🔧 Tech & Skills
+
+- **Languages & Frameworks:** Python, Django, Ionic, Angular
+- **Focus Areas:** AI, Backend, Infrastructure, Mobile Apps, Tech Education
+- **Soft Skills:** Team Leadership, Client Management, Tech Strategy
+
+---
+
+#### 🚀 Currently
+
+- 🌱 I’m currently diving deep into **Full AI Technology**
+- 💬 Ask me about **Python, Django, Ionic, Angular, AI, and Management**
+- 🔭 Working on: [Tracking App](https://github.com/kevinzeladacl/tracking-app)
+
+---
+
+#### 📫 Contact Me
+
+- **Email:** iam@kevinzelada.cl  
+- **CV:** [kevinzelada.cl/cv](https://www.kevinzelada.cl/cv)  
+- **Website:** [Kevinzelada.cl](https://www.kevinzelada.cl)
+
+---
 
 
-- 🌱 I’m currently learning **Full AI Technology**
-
-- 👨‍💻 All of my projects are available at [www.kevinzelada.cl](www.kevinzelada.cl)
-
-- 📝 I regularly write articles on [www.kevinzelda.cl/blog](www.kevinzelda.cl/blog)
-
-- 💬 Ask me about **Python, Django, Ionic, Angular, AI and Managment**
-
-- 📫 How to reach me **iam@kevinzelada.cl**
-
-- 📄 Know about my experiences [www.kevinzelada.cl/cv](www.kevinzelada.cl/cv)
-
-**My Personal website: [Kevinzelada.cl](https://www.kevinzelada.cl)**
 
 <h3 align="left">Connect with me:</h3>
 
