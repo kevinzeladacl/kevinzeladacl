@@ -29,7 +29,6 @@ I'm always open to advising or joining innovative projects, bringing advanced te
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinzeladacl&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" width="49.5%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeladacl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49.5%" alt="Top Languages"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinzeladacl&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=667eea&point=764ba2" width="49.5%" alt="Contribution Graph"/>
 
 </div>
