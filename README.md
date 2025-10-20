@@ -2,6 +2,8 @@
  
 
 ### 👋 Hi, I'm Kevin Zelada (Kevinzeladacl)
+[![committers.top badge](https://user-badge.committers.top/chile_private/kevinzeladacl.svg)](https://user-badge.committers.top/chile_private/kevinzeladacl)
+
 
 ---
 
@@ -17,11 +19,59 @@ I'm always open to advising or joining innovative projects, bringing advanced te
 
 ---
 
+## 📊 GitHub Data
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kevinzeladacl&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophies"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinzeladacl&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" width="49.5%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinzeladacl&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" width="49.5%" alt="GitHub Streak"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeladacl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49.5%" alt="Top Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinzeladacl&theme=tokyo-night&hide_border=true&bg_color=0D1117&line=667eea&point=764ba2" width="49.5%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
 #### 🔧 Tech & Skills
 
-- **Languages & Frameworks:** Python, Django, Ionic, Angular
-- **Focus Areas:** AI, Backend, Infrastructure, Mobile Apps, Tech Education
-- **Soft Skills:** Team Leadership, Client Management, Tech Strategy
+<div align="center">
+
+<table>
+<tr>
+<td align="right"><strong>AI/ML</strong></td>
+<td>OpenAI GPT-4 • LangChain • TensorFlow • Prompt Engineering</td>
+</tr>
+<tr>
+<td align="right"><strong>Backend</strong></td>
+<td>Python • FastAPI • NodeJS • PostgreSQL</td>
+</tr>
+<tr>
+<td align="right"><strong>Cloud</strong></td>
+<td>AWS • Google Cloud Platform • DigitalOceany</td>
+</tr>
+<tr>
+<td align="right"><strong>Frontend</strong></td>
+<td>Angular • Ionic • TypeScript</td>
+</tr>
+<tr>
+<td align="right"><strong>DevOps</strong></td>
+<td>Docker • GitHub Actions • CI/CD</td>
+</tr>
+<tr>
+
+</table>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,aws,docker,postgres&perline=8" alt="Tech Stack"/>
+
+</div>
+
 
 ---
 
@@ -54,9 +104,3 @@ I'm always open to advising or joining innovative projects, bringing advanced te
 <a href="https://www.youtube.com/c/kevinzeladacl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kevinzeladacl" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kevinzeladacl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevinzeladacl" height="30" width="40" /></a>
 </p>
-
-## I'm Good with
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" width="100" height="100"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="" width="100" height="100"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="" width="100" height="100"/>
-
-</a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="" width="180" height="100"/></a><a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="" width="120" height="120"/></a>
-
