@@ -27,7 +27,6 @@ I'm always open to advising or joining innovative projects, bringing advanced te
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinzeladacl&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true" width="49.5%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinzeladacl&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2" width="49.5%" alt="GitHub Streak"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzeladacl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49.5%" alt="Top Languages"/>
@@ -79,7 +78,7 @@ I'm always open to advising or joining innovative projects, bringing advanced te
 
 - 🌱 I’m currently diving deep into **Full AI Technology**
 - 💬 Ask me about **Python, Django, Ionic, Angular, AI, and Management**
-- 🔭 Working on: [Tracking App](https://github.com/kevinzeladacl/tracking-app)
+- 🔭 Working on: [33 ideas with AI](https://github.com/kevinzeladacl/33-ideas-with-ai)
 
 ---
 
