@@ -42,7 +42,7 @@ I'm always open to advising or joining innovative projects, bringing advanced te
 <table>
 <tr>
 <td align="right"><strong>AI/ML</strong></td>
-<td>OpenAI GPT-4 • LangChain • TensorFlow • Prompt Engineering</td>
+<td>OpenAI • Claude / Claude Code • Perplexity • LangChain  • Prompt Engineering</td>
 </tr>
 <tr>
 <td align="right"><strong>Backend</strong></td>
@@ -50,7 +50,7 @@ I'm always open to advising or joining innovative projects, bringing advanced te
 </tr>
 <tr>
 <td align="right"><strong>Cloud</strong></td>
-<td>AWS • Google Cloud Platform • DigitalOceany</td>
+<td>AWS • Google Cloud Platform • DigitalOcean</td>
 </tr>
 <tr>
 <td align="right"><strong>Frontend</strong></td>
