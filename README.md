@@ -15,18 +15,12 @@ Since 2023 I've focused on **applied AI**: integrating LLMs into production (Ope
 I'm also co-founder of **ProinChile**, a community of programmers and IT professionals, and I enjoy teaching workshops and sharing knowledge.
 
 ---
-
-#### 🚀 Projects
-
 | Project | What it is |
-|---|---|
+|---------|---|
 | [**ALGORIKA**](https://algorika.lat) | Software & AI engineering studio — custom software and AI systems connected to a company's own data, tools and workflows. |
 | [**Origami**](https://origamiapp.cl) | Free app to discover specialty coffee shops in Chile, meet their baristas, check in and collect stamps in a digital coffee passport. |
-| [**Critical Hit**](https://criticalhit.media) | Media & community platform for nerd culture (TCG, video games, anime), with a free web app of Magic: The Gathering tools. |
-| [**33 ideas with AI**](https://github.com/kevinzeladacl/33-ideas-with-ai) | Open experiments exploring product ideas built with AI. |
-
----
-
+| [**Critical&nbsp;Hit**](https://criticalhit.media) | Media & community platform for nerd culture (TCG, video games, anime), with a free web app of Magic: The Gathering tools. |
+| [**33&nbsp;ideas&nbsp;with&nbsp;AI**](https://github.com/kevinzeladacl/33-ideas-with-ai) | Open experiments exploring product ideas built with AI. |
 #### 🧭 Experience Highlights
 
 - **MOCCA** — Full Stack Software Engineer · AI agents and LLM integrations on a TypeScript platform (Remix, Node.js, MongoDB, Neo4j), document intelligence and CI/CD on Azure.
